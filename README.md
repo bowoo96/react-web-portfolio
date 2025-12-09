@@ -30,14 +30,14 @@ Reactを使用して制作したアプリで、投稿の作成・編集・削除
 
 
 ## 📁 フォルダ構成
-/project-root
- ├─ /client           # クライアント側
- ├─ /admin            # 管理者側
+/project-root<br>
+ ├─ /client           # クライアント側<br>
+ ├─ /admin            # 管理者側<br>
  └─ README.md         # プロジェクト全体説明
 
 
 ## 🚀 セットアップ
-git clone https://github.com/bowoo96/react-web-portfolio.git
+git clone https://github.com/bowoo96/react-web-portfolio.git<br>
 cd project-root
 
 npm install
@@ -46,6 +46,6 @@ npm start
 
 ## 🚨 注意事項
 - 管理者ページで画像アップロード機能は、ポートフォリオ公開の都合上 Firebase の設定を外しています。
-- 管理者ログイン機能はデモ用のため、現在 API とは接続していません。
+- 管理者ログイン機能はデモ用のため、現在 API とは接続していません。<br>
    そのため、どのような ID / パスワードを入力してもログインできます。
 - 実案件では正常に動作するコードになっています。
